@@ -1,4 +1,5 @@
 import React from 'react';
+import FooterContainer from '../Footer';
 
 export default function Portfolio() {
   return (
@@ -7,6 +8,7 @@ export default function Portfolio() {
       <p>
         
       </p>
+      <FooterContainer />
     </div>
   );
 }

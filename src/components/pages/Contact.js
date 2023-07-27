@@ -1,4 +1,5 @@
 import React from 'react';
+import FooterContainer from '../Footer';
 
 export default function Contact() {
   return (
@@ -11,6 +12,7 @@ export default function Contact() {
 
         
       </p>
+      <FooterContainer />
     </div>
   );
 }
