@@ -6,8 +6,8 @@ export default function Contact() {
     <div>
       <h1>Contact Page</h1>
       <p>
-        Billy Scoggins
-        C- 214.507.3251
+        Billy Scoggins <br/>
+        C- 214.507.3251 <br/>
         E- billy_scoggins@yahoo.com
 
         
